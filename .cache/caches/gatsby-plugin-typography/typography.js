@@ -1,0 +1,1 @@
+module.exports = require("/Users/dlwhitehurst/Development/Client/FTB/gatsby/ms3-kmaas-2/src/utils/typography")
